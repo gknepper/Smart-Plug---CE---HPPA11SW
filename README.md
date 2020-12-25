@@ -14,3 +14,15 @@ https://play.google.com/store/apps/details?id=com.homedepot.sp1&hl=pt&gl=US
 App Store
 https://apps.apple.com/ca/app/sp1-commercial-electric-plug/id1474605494
 
+# Photos
+![Image](https://raw.githubusercontent.com/gknepper/Smart-Plug---CE---HPPA11SW/main/images/p_1001551613.jpg)
+
+![RTL8710BX text](https://raw.githubusercontent.com/gknepper/Smart-Plug---CE---HPPA11SW/main/images/20190619_Realtek-Semicon-RTL8710BX_C398719_front.jpg)
+
+# Product Images
+
+/Images
+
+# Chipset Documentation
+
+/docs
